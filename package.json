@@ -13,7 +13,7 @@
         "backend",
         "middleware"
     ],
-    "author": "Isabella",
+    "author": "Anna",
     "license": "ISC",
     "dependencies": {
         "@supabase/supabase-js": "^2.99.3",
